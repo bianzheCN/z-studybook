@@ -4,6 +4,11 @@
 
 ### Phase01: 算法
 
+- 2021.12.11
+  - 202 快乐数
+    - 代码 [https://github.com/bianzheCN/lc/blob/master/202.%20Happy%20Number.js]
+    - 掘金 [https://juejin.cn/post/7040328443795341343/]
+
 - 2021.12.10
   - 141 环形链表
     - 代码  [https://github.com/bianzheCN/lc/blob/master/141.%20Linked%20List%20Cycle.js]
