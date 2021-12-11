@@ -5,7 +5,7 @@
 ### Phase01: 算法
 
 - 2021.12.11
-  - 206. 反转链表
+  - 206 反转链表
     - 代码  [https://github.com/bianzheCN/lc/blob/master/206.%20Reverse%20Linked%20List.js]
     - 掘金  [https://juejin.cn/post/7040338472720138276/]
   - 202 快乐数
