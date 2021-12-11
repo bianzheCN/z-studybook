@@ -4,6 +4,11 @@
 
 ### Phase01: 算法
 
+- 2021.12.12
+  - 92 反转链表 II
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/92.%20Reverse%20Linked%20List%20II.js]
+    - 掘金  [https://juejin.cn/post/7040578079630032927/]
+
 - 2021.12.11
   - 206 反转链表
     - 代码  [https://github.com/bianzheCN/lc/blob/master/206.%20Reverse%20Linked%20List.js]
