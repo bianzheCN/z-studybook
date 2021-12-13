@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.13
+  - 19 删除链表的倒数第 N 个结点
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.js]
+    - 掘金  [https://juejin.cn/post/7041121370129989640/]
   - 24 两两交换链表中的节点
     - 代码  [https://github.com/bianzheCN/lc/blob/master/24.%20Swap%20Nodes%20in%20Pairs.js]
     - 掘金  [https://juejin.cn/post/7041095080622424078/]
