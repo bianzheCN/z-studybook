@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.13
+  - 83 删除排序链表中的重复元素
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List.js]
+    - 掘金  [https://juejin.cn/post/7041149963459362823/]
   - 19 删除链表的倒数第 N 个结点
     - 代码  [https://github.com/bianzheCN/lc/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.js]
     - 掘金  [https://juejin.cn/post/7041121370129989640/]
