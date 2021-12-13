@@ -11,6 +11,11 @@
 
 ### Phase01: 算法
 
+- 2021.12.13
+  - 24 两两交换链表中的节点
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/24.%20Swap%20Nodes%20in%20Pairs.js]
+    - 掘金  [https://juejin.cn/post/7041095080622424078/]
+
 - 2021.12.12
   - 61 旋转链表
     - 代码  [https://github.com/bianzheCN/lc/blob/master/61.%20Rotate%20List.js]
