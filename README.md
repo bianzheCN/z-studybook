@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.13
+  - 86 分隔链表
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/86.%20Partition%20List.js]
+    - 掘金  [https://juejin.cn/post/7041380529257578510/]
   - 83 删除排序链表中的重复元素
     - 代码  [https://github.com/bianzheCN/lc/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List.js]
     - 掘金  [https://juejin.cn/post/7041149963459362823/]
