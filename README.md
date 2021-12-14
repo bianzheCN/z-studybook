@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.14
+  - 138 复制带随机指针的链表
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/138.%20Copy%20List%20with%20Random%20Pointer.js]
+    - 掘金  [https://juejin.cn/post/7041560254529667085/]
   - 86 分隔链表
     - 代码  [https://github.com/bianzheCN/lc/blob/master/86.%20Partition%20List.js]
     - 掘金  [https://juejin.cn/post/7041380529257578510/]
