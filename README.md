@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.15
+  - 641 设计循环双端队列
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/641.%20Design%20Circular%20Deque.js]
+    - 掘金  [https://juejin.cn/post/7041928579130589215/]
   - 622 设计循环队列
     - 代码  [https://github.com/bianzheCN/lc/blob/master/622.%20Design%20Circular%20Queue.js]
     - 掘金  [https://juejin.cn/post/7041758839590354952/]
