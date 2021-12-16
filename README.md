@@ -11,6 +11,11 @@
 
 ### Phase01: 算法
 
+- 2021.12.17
+  - 859 亲密字符串
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/859.%20Buddy%20Strings.js]
+    - 掘金  [https://juejin.cn/post/7042444130810757151/]
+
 - 2021.12.16
   - 第 K 个数
     - 代码  [https://github.com/bianzheCN/lc/blob/master/%E7%AC%AC%20k%20%E4%B8%AA%20%E6%95%B0.js]
