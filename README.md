@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.16
+  - 第 K 个数
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/%E7%AC%AC%20k%20%E4%B8%AA%20%E6%95%B0.js]
+    - 掘金  [https://juejin.cn/user/3808364011203720]
   - 933 最近的请求次数
     - 代码  [https://github.com/bianzheCN/lc/blob/master/933.%20Number%20of%20Recent%20Calls.js]
     - 掘金  [https://juejin.cn/post/7042186608388358181/]
