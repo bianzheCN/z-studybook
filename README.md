@@ -12,6 +12,9 @@
 ### Phase01: 算法
 
 - 2021.12.17
+  - 860 柠檬水找零
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/860.%20Lemonade%20Change.js]
+    - 掘金  [https://juejin.cn/post/7042570837437710367/]
   - 859 亲密字符串
     - 代码  [https://github.com/bianzheCN/lc/blob/master/859.%20Buddy%20Strings.js]
     - 掘金  [https://juejin.cn/post/7042444130810757151/]
