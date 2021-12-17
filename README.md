@@ -8,10 +8,15 @@
   - 题目名称
     - 代码  []
     - 掘金  []
+    - 破站  []
 
 ### Phase01: 算法
 
 - 2021.12.17
+  - 969 煎饼排序
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/969.%20Pancake%20Sorting.js]
+    - 掘金  [https://juejin.cn/post/7042606037743960094]
+    - 破站  [https://www.bilibili.com/video/BV14P4y1H716/]
   - 860 柠檬水找零
     - 代码  [https://github.com/bianzheCN/lc/blob/master/860.%20Lemonade%20Change.js]
     - 掘金  [https://juejin.cn/post/7042570837437710367/]
