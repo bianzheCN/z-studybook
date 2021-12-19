@@ -12,6 +12,11 @@
 
 ### Phase01: 算法
 
+- 2021.12.19
+  - 任务调度器
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/621.%20Task%20Scheduler.js]
+    - 破站  [https://www.bilibili.com/video/BV1DS4y1Q7rW/]
+
 - 2021.12.17
   - 969 煎饼排序
     - 代码  [https://github.com/bianzheCN/lc/blob/master/969.%20Pancake%20Sorting.js]
