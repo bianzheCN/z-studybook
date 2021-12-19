@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.19
+  - 化栈为队
+  - 代码  [https://github.com/bianzheCN/lc/blob/master/%E5%8C%96%E6%A0%88%E4%B8%BA%E9%98%9F.js]
+  - 掘金  [https://juejin.cn/post/7043333133374062600/]
+  - 破站  [https://www.bilibili.com/video/BV1yi4y1d7tm/]
   - 任务调度器
     - 代码  [https://github.com/bianzheCN/lc/blob/master/621.%20Task%20Scheduler.js]
     - 掘金  [https://juejin.cn/post/7043289094645874718/]
