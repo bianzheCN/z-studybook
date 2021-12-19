@@ -14,10 +14,14 @@
 
 - 2021.12.19
 
-  - 题目名称
-      - 代码  [https://github.com/bianzheCN/lc/blob/master/844.%20Backspace%20String%20Compare.js]
-      - 掘金  [https://juejin.cn/post/7043358719232442382/]
-      - 破站  [https://www.bilibili.com/video/BV1WL411j7qc/]
+  - 验证栈序列
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/946.%20Validate%20Stack%20Sequences.js]
+    - 掘金  [https://juejin.cn/post/7043423841304969229/]
+    - 破站  [https://www.bilibili.com/video/BV1DL4y1J7np/]
+  - 比较含退格的字符串
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/844.%20Backspace%20String%20Compare.js]
+    - 掘金  [https://juejin.cn/post/7043358719232442382/]
+    - 破站  [https://www.bilibili.com/video/BV1WL411j7qc/]
   - 棒球比赛
     - 代码  [https://github.com/bianzheCN/lc/blob/master/682.%20Baseball%20Game.js]
     - 掘金  [https://juejin.cn/post/7043344707329458183/]
