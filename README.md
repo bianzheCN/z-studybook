@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.20
+  - 移除无效的括号
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.js]
+    - 掘金  []
+    - 破站  [https://www.bilibili.com/video/BV1s34y167es/]
   - 有效的括号
     - 代码  [https://github.com/bianzheCN/lc/blob/master/20.%20Valid%20Parentheses.js]
     - 掘金  [https://juejin.cn/post/7043620672408387591/]
