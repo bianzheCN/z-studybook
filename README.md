@@ -12,8 +12,13 @@
 
 ### Phase01: 算法
 
-- 2021.12.19
+- 2021.12.20
+  - 有效的括号
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/20.%20Valid%20Parentheses.js]
+    - 掘金  [https://juejin.cn/post/7043620672408387591/]
+    - 破站  [https://www.bilibili.com/video/BV1kr4y1U7py/]
 
+- 2021.12.19
   - 验证栈序列
     - 代码  [https://github.com/bianzheCN/lc/blob/master/946.%20Validate%20Stack%20Sequences.js]
     - 掘金  [https://juejin.cn/post/7043423841304969229/]
