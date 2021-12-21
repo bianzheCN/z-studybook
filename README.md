@@ -13,6 +13,14 @@
 ### Phase01: 算法
 
 - 2021.12.21
+  - 基本计算器 II
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/227.%20Basic%20Calculator%20II.js]
+    - 掘金  []
+    - 破站  [https://www.bilibili.com/video/BV1gF411B7na/]
+  - 验证二叉树的前序序列化
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.js]
+    - 掘金  []
+    - 破站  [https://www.bilibili.com/video/BV1oi4y1971k/]
   - 二叉树的后序遍历
     - 代码  [https://github.com/bianzheCN/lc/blob/master/145%20Binary%20Tree%20Postorder%20Traversal.js]
     - 掘金  [https://juejin.cn/post/7043976980399652877/]
