@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.12.22
+  - 函数的独占时间
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/636.%20Exclusive%20Time%20of%20Functions.js]
+    - 掘金  []
+    - 破站  [https://www.bilibili.com/video/BV13F411B7UK/]
+
 - 2021.12.21
   - 基本计算器 II
     - 代码  [https://github.com/bianzheCN/lc/blob/master/227.%20Basic%20Calculator%20II.js]
