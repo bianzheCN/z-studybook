@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.22
+  - 返回倒数第 K 个节点
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/%E8%BF%94%E5%9B%9E%E5%80%92%E6%95%B0%E7%AC%AC%20k%20%E4%B8%AA%E8%8A%82%E7%82%B9.js]
+    - 掘金  []
+    - 破站  [https://www.bilibili.com/video/BV1db4y1v7XY/]
   - 函数的独占时间
     - 代码  [https://github.com/bianzheCN/lc/blob/master/636.%20Exclusive%20Time%20of%20Functions.js]
     - 掘金  []
