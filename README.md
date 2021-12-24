@@ -12,7 +12,15 @@
 
 ### Phase01: 算法
 
+- 2021.12.24
+  - 表现良好的最长时间段
+    - 代码  [https://github.com/bianzheCN/lc/blob/master/1124.%20Longest%20Well-Performing%20Interval.js]
+    - 掘金  [https://juejin.cn/post/7045250470251593735/]
+    - 破站  [https://www.bilibili.com/video/BV1Hb4y1v7rG/]
+
 - 2021.12.22
+  - 环形链表（补视频）
+    - 破站  [https://www.bilibili.com/video/BV1BL4y1n7eC/]
   - 环形链表 II(补视频)
     - 破站  [https://www.bilibili.com/video/BV1HL41157pc/]
   - 返回倒数第 K 个节点
