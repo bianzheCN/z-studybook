@@ -13,6 +13,14 @@
 ### Phase01: 算法
 
 - 2021.12.25
+  - 重排链表
+    - [代码](https://github.com/bianzheCN/lc/blob/master/143.%20Reorder%20List.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1f3411x7vV/)
+  - 两数相加 II
+    - [代码](https://github.com/bianzheCN/lc/blob/master/445.%20Add%20Two%20Numbers%20II.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1WF411B7Xg/)
   - 复杂链表的复制
     - [代码](https://github.com/bianzheCN/lc/blob/master/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.js)
     - [掘金](https://juejin.cn/post/7045435468401344543/)
