@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.25
+  - 环路检测
+    - [代码](https://github.com/bianzheCN/lc/blob/master/%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.js)
+    - [掘金](https://juejin.cn/post/7045626992342859783/)
+    - [破站](https://www.bilibili.com/video/BV1iu411S7aE/)
   - 重排链表
     - [代码](https://github.com/bianzheCN/lc/blob/master/143.%20Reorder%20List.js)
     - [掘金]
