@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.26
+  - 删除链表的节点
+    - [代码](https://github.com/bianzheCN/lc/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.js)
+    - [掘金](https://juejin.cn/post/7045851048807759903/)
+    - [破站](https://www.bilibili.com/video/BV1eZ4y1X7nR/)
   - 设计链表
     - [代码](https://github.com/bianzheCN/lc/blob/master/707.%20Design%20Linked%20List.js)
     - [掘金](https://juejin.cn/post/7045821226534731807)
