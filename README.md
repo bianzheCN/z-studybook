@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.12.26
+  - 设计链表
+    - [代码](https://github.com/bianzheCN/lc/blob/master/707.%20Design%20Linked%20List.js)
+    - [掘金](https://juejin.cn/post/7045821226534731807)
+    - [破站](https://www.bilibili.com/video/BV1bF411B7wy/)
+
 - 2021.12.25
   - 环路检测
     - [代码](https://github.com/bianzheCN/lc/blob/master/%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.js)
