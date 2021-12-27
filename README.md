@@ -13,6 +13,8 @@
 ### Phase01: 算法
 
 - 2021.12.27
+  - 分隔链表
+    - [破站](https://www.bilibili.com/video/BV1oR4y1g7Mv/)
   - 分割链表
     - [代码]
     - [掘金]
