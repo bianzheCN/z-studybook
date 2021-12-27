@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.12.27
+  - 分割链表
+    - [代码]
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV163411v7ek/)
+
 - 2021.12.26
   - 删除链表的节点
     - [代码](https://github.com/bianzheCN/lc/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.js)
