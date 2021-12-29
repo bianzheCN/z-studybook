@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.29
+  - 完全二叉树的节点个数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/222.%20Count%20Complete%20Tree%20Nodes.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1Ci4y1R7Ji/)
   - 从前序与中序遍历序列构造二叉树
     - [代码](https://github.com/bianzheCN/lc/blob/master/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.js)
     - [掘金]
