@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.12.29
+  - 第K个语法符号
+    - [代码](https://github.com/bianzheCN/lc/blob/master/779.%20K-th%20Symbol%20in%20Grammar.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV12q4y1m7uX/)
+
 - 2021.12.27
   - 分隔链表
     - [破站](https://www.bilibili.com/video/BV1oR4y1g7Mv/)
