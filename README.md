@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.29
+  - 从前序与中序遍历序列构造二叉树
+    - [代码](https://github.com/bianzheCN/lc/blob/master/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1XD4y1c7EF/)
   - 路径总和
     - [代码](https://github.com/bianzheCN/lc/blob/master/112.%20Path%20Sum.js)
     - [掘金]
