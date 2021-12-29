@@ -13,6 +13,10 @@
 ### Phase01: 算法
 
 - 2021.12.29
+  - 斐波那契数列
+    - [代码](https://github.com/bianzheCN/lc/blob/master/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV14i4y1R7cg/)
   - 第K个语法符号
     - [代码](https://github.com/bianzheCN/lc/blob/master/779.%20K-th%20Symbol%20in%20Grammar.js)
     - [掘金]
