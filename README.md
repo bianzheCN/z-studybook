@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.12.30
+  - 二叉搜索树的第k大节点
+    - [代码](https://github.com/bianzheCN/lc/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1EF411i7Rw/)
+
 - 2021.12.29
   - 完全二叉树的节点个数
     - [代码](https://github.com/bianzheCN/lc/blob/master/222.%20Count%20Complete%20Tree%20Nodes.js)
