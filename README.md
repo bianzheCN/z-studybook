@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 2021.12.31
+
+  - 翻转二叉树
+    - [代码](https://github.com/bianzheCN/lc/blob/master/226.%20Invert%20Binary%20Tree.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1FR4y1G77b/)
+
   - N 叉树的前序遍历
     - [代码](https://github.com/bianzheCN/lc/blob/master/589.%20N-ary%20Tree%20Preorder%20Traversal.js)
     - [掘金]
