@@ -12,6 +12,27 @@
 
 ### Phase01: 算法
 
+- 2021.12.31
+  - N 叉树的前序遍历
+    - [代码](https://github.com/bianzheCN/lc/blob/master/589.%20N-ary%20Tree%20Preorder%20Traversal.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1cm4y1X7Pk/)
+
+  - 二叉树的前序遍历
+    - [代码](https://github.com/bianzheCN/lc/blob/master/144.%20Binary%20Tree%20Preorder%20Traversal.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1Na411z74z/)
+
+  - 树的子结构
+    - [代码](https://github.com/bianzheCN/lc/blob/master/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1Vi4y1X7r5/)
+
+  - 二叉树的最大宽度
+    - [代码](https://github.com/bianzheCN/lc/blob/master/662.%20Maximum%20Width%20of%20Binary%20Tree.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1vP4y1n7cG/)
+
 - 2021.12.30
   - 二叉搜索树的第k大节点
     - [代码](https://github.com/bianzheCN/lc/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.js)
