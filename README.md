@@ -14,6 +14,11 @@
 
 - 2022.1.1
 
+  - 二叉树的锯齿形层序遍历
+    - [代码](https://github.com/bianzheCN/lc/blob/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV18P4y1n7T4/)
+
   - 二叉树的层序遍历 II
     - [代码](https://github.com/bianzheCN/lc/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.js)
     - [掘金]
