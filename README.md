@@ -14,6 +14,11 @@
 
 - 2022.1.1
 
+  - 平衡二叉树
+    - [代码](https://github.com/bianzheCN/lc/blob/master/110.%20Balanced%20Binary%20Tree.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV113411Y7nE/)
+
   - 二叉树的锯齿形层序遍历
     - [代码](https://github.com/bianzheCN/lc/blob/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.js)
     - [掘金]
