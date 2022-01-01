@@ -14,6 +14,11 @@
 
 - 2022.1.1
 
+  - 合并二叉树
+    - [代码](https://github.com/bianzheCN/lc/blob/master/21.%20Merge%20Two%20Sorted%20Lists.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1pi4y1X7Zx/)
+
   - 平衡二叉树
     - [代码](https://github.com/bianzheCN/lc/blob/master/110.%20Balanced%20Binary%20Tree.js)
     - [掘金]
