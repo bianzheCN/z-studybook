@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 2021.1.2
+
+  - 最小的k个数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/%E6%9C%80%E5%B0%8F%20k%20%E4%B8%AA%E6%95%B0.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1PR4y1G7Av/)
+
   - 监控二叉树
     - [代码](https://github.com/bianzheCN/lc/blob/master/968.%20Binary%20Tree%20Cameras.js)
     - [掘金]
