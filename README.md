@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.1.2
+  - 监控二叉树
+    - [代码](https://github.com/bianzheCN/lc/blob/master/968.%20Binary%20Tree%20Cameras.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1y34y1z7vt/)
+
 - 2022.1.1
 
   - 合并二叉树
