@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.1.3
+  - 最后一块石头重量
+    - [代码](https://github.com/bianzheCN/lc/blob/master/1046.%20Last%20Stone%20Weight.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1e3411e7Fo/)
+
 - 2021.1.2
 
   - 最小的k个数
