@@ -12,12 +12,18 @@
 
 ### Phase01: 算法
 
-- 数据流中的第 K 大元素
+- 2021.1.3
+
+  - 查找和最小的K对数字
+    - [代码](https://github.com/bianzheCN/lc/blob/master/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1tY41187sZ/)
+
+  - 数据流中的第 K 大元素
     - [代码](https://github.com/bianzheCN/lc/blob/master/703.%20Kth%20Largest%20Element%20in%20a%20Stream.js)
     - [掘金]
     - [破站](https://www.bilibili.com/video/BV1gu411U7uQ/)
 
-- 2021.1.3
   - 最后一块石头重量
     - [代码](https://github.com/bianzheCN/lc/blob/master/1046.%20Last%20Stone%20Weight.js)
     - [掘金]
