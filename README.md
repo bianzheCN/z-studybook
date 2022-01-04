@@ -12,6 +12,18 @@
 
 ### Phase01: 算法
 
+- 2021.1.4
+
+  - 翻转链表
+    - [代码]
+    - [掘金]
+    - [破站](bilibili.com/video/BV1kb4y1n73D/)
+
+  - 快乐数
+    - [代码]
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1G44y1j7VL/)
+
 - 2021.1.3
 
   - 查找和最小的K对数字
