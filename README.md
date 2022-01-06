@@ -12,6 +12,18 @@
 
 ### Phase01: 算法
 
+- 2021.1.6
+
+  - 数据流的中位数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/295.%20Find%20Median%20from%20Data%20Stream.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1ma411z7PY/)
+
+  - 前 k 个高频单词
+    - [代码](https://github.com/bianzheCN/lc/blob/master/692.%20Top%20K%20Frequent%20Words.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1C34y1q7r2/)
+
 - 2021.1.4
 
   - 翻转链表
