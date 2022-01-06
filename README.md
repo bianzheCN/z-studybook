@@ -14,6 +14,11 @@
 
 - 2021.1.6
 
+  - 丑数 II
+    - [代码](https://github.com/bianzheCN/lc/blob/master/264.%20Ugly%20Number%20II.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1Mm4y1D7jj/)
+
   - 数据流的中位数
     - [代码](https://github.com/bianzheCN/lc/blob/master/295.%20Find%20Median%20from%20Data%20Stream.js)
     - [掘金]
