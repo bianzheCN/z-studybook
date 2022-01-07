@@ -12,16 +12,22 @@
 
 ### Phase01: 算法
 
+- 2021.1.7
+  - 超级丑数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/313.%20Super%20Ugly%20Number.js)
+    - [掘金](https://juejin.cn/post/7050449824465813511/)
+    - [破站](https://www.bilibili.com/video/BV1fR4y1u7eM/)
+
 - 2021.1.6
 
   - 丑数 II
     - [代码](https://github.com/bianzheCN/lc/blob/master/264.%20Ugly%20Number%20II.js)
-    - [掘金]
+    - [掘金](https://juejin.cn/post/7050101433252888612/)
     - [破站](https://www.bilibili.com/video/BV1Mm4y1D7jj/)
 
   - 数据流的中位数
     - [代码](https://github.com/bianzheCN/lc/blob/master/295.%20Find%20Median%20from%20Data%20Stream.js)
-    - [掘金]
+    - [掘金](https://juejin.cn/post/7050103538067701773/)
     - [破站](https://www.bilibili.com/video/BV1ma411z7PY/)
 
   - 前 k 个高频单词
