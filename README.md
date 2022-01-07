@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 2021.1.7
+
+  - 移除石子最大得分
+    - [代码](https://github.com/bianzheCN/lc/blob/master/1753.%20Maximum%20Score%20From%20Removing%20Stones.js)
+    - [掘金]
+    - [破站](https://www.bilibili.com/video/BV1oL4y1t7Xp/)
+
   - 超级丑数
     - [代码](https://github.com/bianzheCN/lc/blob/master/313.%20Super%20Ugly%20Number.js)
     - [掘金](https://juejin.cn/post/7050449824465813511/)
