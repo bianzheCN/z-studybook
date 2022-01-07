@@ -16,7 +16,7 @@
 
   - 移除石子最大得分
     - [代码](https://github.com/bianzheCN/lc/blob/master/1753.%20Maximum%20Score%20From%20Removing%20Stones.js)
-    - [掘金]
+    - [掘金](https://juejin.cn/post/7050482261455536158/)
     - [破站](https://www.bilibili.com/video/BV1oL4y1t7Xp/)
 
   - 超级丑数
