@@ -14,6 +14,11 @@
 
 - 2021.1.8
 
+  - 省份数量
+    - [代码](https://github.com/bianzheCN/lc/blob/master/547.%20Number%20of%20Provinces.js)
+    - [掘金](https://juejin.cn/post/7050820864857604126/)
+    - [破站](https://www.bilibili.com/video/BV1nm4y1D7Sa/)
+
   - 积压订单中的订单总数
     - [代码](https://github.com/bianzheCN/lc/blob/master/1801.%20Number%20of%20Orders%20in%20the%20Backlog.js)
     - [掘金](https://juejin.cn/post/7050680613061263396/)
