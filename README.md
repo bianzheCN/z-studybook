@@ -14,6 +14,11 @@
 
 - 2021.1.8
 
+  - 岛屿数量
+    - [代码](https://github.com/bianzheCN/lc/blob/master/200.%20Number%20of%20Islands.js)
+    - [掘金](https://juejin.cn/post/7050859183184297992/)
+    - [破站]
+
   - 省份数量
     - [代码](https://github.com/bianzheCN/lc/blob/master/547.%20Number%20of%20Provinces.js)
     - [掘金](https://juejin.cn/post/7050820864857604126/)
