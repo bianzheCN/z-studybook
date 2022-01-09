@@ -14,6 +14,11 @@
 
 - 2021.1.8
 
+  - 等式方程的可满足行
+    - [代码](https://github.com/bianzheCN/lc/blob/master/990.%20Satisfiability%20of%20Equality%20Equations.js)
+    - [掘金](https://juejin.cn/post/7051030181972017165/)
+    - [破站](https://www.bilibili.com/video/BV1Mb4y1H7gk/)
+
   - 岛屿数量
     - [代码]
     - [掘金]
