@@ -14,6 +14,11 @@
 
 - 2021.1.8
 
+  - 连通网络的操作次数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.js)
+    - [掘金](https://juejin.cn/post/7051104182496919560/)
+    - [破站](https://www.bilibili.com/video/BV1Xb4y1n7qo/)
+
   - 冗余连接
     - [代码](https://github.com/bianzheCN/lc/blob/master/684.%20Redundant%20Connection.js)
     - [掘金](https://juejin.cn/post/7051052024061755399/)
