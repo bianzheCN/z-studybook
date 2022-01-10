@@ -12,7 +12,13 @@
 
 ### Phase01: 算法
 
-- 2021.1.8
+- 2022.1.9
+  - 最长连续序列
+    - [代码](https://github.com/bianzheCN/lc/blob/master/128.%20Longest%20Consecutive%20Sequence.js)
+    - [掘金](https://juejin.cn/post/7051564702370889736/)
+    - [破站](https://www.bilibili.com/video/BV17b4y1H7MA/)
+
+- 2022.1.8
 
   - 连通网络的操作次数
     - [代码](https://github.com/bianzheCN/lc/blob/master/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.js)
@@ -34,7 +40,7 @@
     - [掘金]
     - [破站](https://www.bilibili.com/video/BV1i44y157kV/)
 
-- 2021.1.8
+- 2022.1.8
 
   - 岛屿数量
     - [代码](https://github.com/bianzheCN/lc/blob/master/200.%20Number%20of%20Islands.js)
@@ -51,7 +57,7 @@
     - [掘金](https://juejin.cn/post/7050680613061263396/)
     - [破站](https://www.bilibili.com/video/BV1UF411v796/)
 
-- 2021.1.7
+- 2022.1.7
 
   - 移除石子最大得分
     - [代码](https://github.com/bianzheCN/lc/blob/master/1753.%20Maximum%20Score%20From%20Removing%20Stones.js)
@@ -63,7 +69,7 @@
     - [掘金](https://juejin.cn/post/7050449824465813511/)
     - [破站](https://www.bilibili.com/video/BV1fR4y1u7eM/)
 
-- 2021.1.6
+- 2022.1.6
 
   - 丑数 II
     - [代码](https://github.com/bianzheCN/lc/blob/master/264.%20Ugly%20Number%20II.js)
@@ -80,7 +86,7 @@
     - [掘金]
     - [破站](https://www.bilibili.com/video/BV1C34y1q7r2/)
 
-- 2021.1.4
+- 2022.1.4
 
   - 翻转链表
     - [代码]
@@ -92,7 +98,7 @@
     - [掘金]
     - [破站](https://www.bilibili.com/video/BV1G44y1j7VL/)
 
-- 2021.1.3
+- 2022.1.3
 
   - 查找和最小的K对数字
     - [代码](https://github.com/bianzheCN/lc/blob/master/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.js)
@@ -109,7 +115,7 @@
     - [掘金]
     - [破站](https://www.bilibili.com/video/BV1e3411e7Fo/)
 
-- 2021.1.2
+- 2022.1.2
 
   - 最小的k个数
     - [代码](https://github.com/bianzheCN/lc/blob/master/%E6%9C%80%E5%B0%8F%20k%20%E4%B8%AA%E6%95%B0.js)
