@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.1.10
+  - 移除最多的同行或同列石头
+    - [代码](https://github.com/bianzheCN/lc/blob/master/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.js)
+    - [掘金](https://juejin.cn/post/7052056779777277982)
+    - [破站](https://www.bilibili.com/video/BV1ea411q7sm/)
+
 - 2022.1.9
   - 最长连续序列
     - [代码](https://github.com/bianzheCN/lc/blob/master/128.%20Longest%20Consecutive%20Sequence.js)
