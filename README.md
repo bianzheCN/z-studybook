@@ -13,6 +13,17 @@
 ### Phase01: 算法
 
 - 2022.1.12
+
+  - 排序数组
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/912.%20Sort%20an%20Array.js)
+    - [掘金](https://juejin.cn/post/7052322688651493390/)
+    - [破站](https://www.bilibili.com/video/BV1f34y1q7fQ/)
+
+  - 调整数组顺序使奇数位于偶数前面
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/%E5%89%91%E6%8C%87%20Offer%2021.%20%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.js)
+    - [掘金](https://juejin.cn/post/7052319468738838559/)
+    - [破站](https://www.bilibili.com/video/BV1KL411c7L2/)
+
   - 交换字符串中的元素
     - [代码](https://github.com/bianzheCN/lc/blob/master/1202.%20Smallest%20String%20With%20Swaps.js)
     - [掘金](https://juejin.cn/post/7052136857886752781/)
