@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.1.12
+  - 交换字符串中的元素
+    - [代码](https://github.com/bianzheCN/lc/blob/master/1202.%20Smallest%20String%20With%20Swaps.js)
+    - [掘金](https://juejin.cn/post/7052136857886752781/)
+    - [破站](https://www.bilibili.com/video/BV1s44y157Gc/)
+
 - 2022.1.11
   - 移除最多的同行或同列石头
     - [代码](https://github.com/bianzheCN/lc/blob/master/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.js)
