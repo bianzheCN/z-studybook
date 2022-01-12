@@ -12,7 +12,7 @@
 
 ### Phase01: 算法
 
-- 2022.1.10
+- 2022.1.11
   - 移除最多的同行或同列石头
     - [代码](https://github.com/bianzheCN/lc/blob/master/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.js)
     - [掘金](https://juejin.cn/post/7052056779777277982)
