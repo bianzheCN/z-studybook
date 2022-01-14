@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.1.14
+  - 快速排序
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/QuickSort.md)
+    - [掘金](https://juejin.cn/post/7053004497626349575/)
+    - [破站](https://www.bilibili.com/video/BV1Rq4y1y77Z/)
+
 - 2022.1.12
 
   - 排序数组
