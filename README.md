@@ -13,6 +13,17 @@
 ### Phase01: 算法
 
 - 2022.1.14
+
+  - 调整数组顺序使奇数位于偶数前面
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+  - 排序数组
+    - [代码](https://github.com/bianzheCN/lc/blob/master/912.%20Sort%20an%20Array.js)
+    - [掘金](https://juejin.cn/post/7053040561023877128)
+    - [破站](https://www.bilibili.com/video/BV1SL4y1b7sd/)
+
   - 快速排序
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/QuickSort.md)
     - [掘金](https://juejin.cn/post/7053004497626349575/)
