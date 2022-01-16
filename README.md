@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.1.16
+  - 颜色分类
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/75.%20Sort%20Colors.js)
+    - [掘金](https://juejin.cn/post/7053617260090359815/)
+    - [破站](https://www.bilibili.com/video/BV1Dr4y1v7HK/)
+
 - 2022.1.15
   - 排序链表
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/148.%20Sort%20List.js)
