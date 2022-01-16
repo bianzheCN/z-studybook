@@ -14,6 +14,11 @@
 
 - 2022.1.16
 
+  - 将字符串拆分为若干长度为 k 的组
+    - [代码](https://github.com/bianzheCN/lc/blob/master/5980.%20%E5%B0%86%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8B%86%E5%88%86%E4%B8%BA%E8%8B%A5%E5%B9%B2%E9%95%BF%E5%BA%A6%E4%B8%BA%20k%20%E7%9A%84%E7%BB%84.js)
+    - [掘金](https://juejin.cn/post/7053786408237924388/)
+    - [破站]
+
   - 面试题 17.14. 最小K个数
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.js)
     - [掘金](https://juejin.cn/post/7053727906794569765)
