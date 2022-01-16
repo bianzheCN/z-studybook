@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 2022.1.16
+
+  - 面试题 17.14. 最小K个数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.js)
+    - [掘金](https://juejin.cn/post/7053727906794569765)
+    - [破站](https://www.bilibili.com/video/BV1Fu411m73q/)
+
   - 颜色分类
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/75.%20Sort%20Colors.js)
     - [掘金](https://juejin.cn/post/7053617260090359815/)
