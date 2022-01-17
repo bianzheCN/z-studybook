@@ -12,6 +12,23 @@
 
 ### Phase01: 算法
 
+- 2022.1.17
+
+  - 合并K个升序链表
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/23.%20Merge%20k%20Sorted%20Lists.js)
+    - [掘金](https://juejin.cn/post/7054195104625623054/)
+    - [破站](https://member.bilibili.com/platform/upload-manager/article)
+
+  - 逆序对
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/%E5%89%91%E6%8C%87%20Offer%2051.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.js)
+    - [掘金](https://juejin.cn/post/7054153301255782407/)
+    - [破站](https://www.bilibili.com/video/BV1ur4y1i7gf/)
+
+  - 归并排序
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/template.js)
+    - [掘金](https://juejin.cn/post/7054165970985680933/)
+    - [破站]
+
 - 2022.1.16
 
   - 得到目标值的最少行动次数
