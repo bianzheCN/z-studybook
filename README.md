@@ -12,6 +12,18 @@
 
 ### Phase01: 算法
 
+- 2022.1.18
+
+  - 排序链表
+    - [代码](https://github.com/bianzheCN/lc/blob/04bf2b8c65c8a4f64a5799d0df02d5788a36b8f6/algo/Sort/148.%20Sort%20List.js)
+    - [掘金](https://juejin.cn/post/7054533793654243336/)
+    - [破站](https://www.bilibili.com/video/BV1d44y1W79r/)
+
+  - 翻转对
+    - [代码](https://github.com/bianzheCN/lc/blob/1a4c249b5f190972fcb84b0eb3678882fb857d0d/algo/Sort/mergeSort/493.%20Reverse%20Pairs.js)
+    - [掘金](https://juejin.cn/post/7054467917596852260/)
+    - [破站](https://www.bilibili.com/video/BV1Ma411m7Rq/)
+
 - 2022.1.17
 
   - 合并K个升序链表
