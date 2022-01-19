@@ -12,6 +12,43 @@
 
 ### Phase01: 算法
 
+- 2022.1.19
+
+  - 二叉搜索树的最近公共祖先
+    - [代码]
+    - [掘金]
+    - [破站]
+
+  - 对称二叉树
+    - [代码]
+    - [掘金]
+    - [破站]
+
+  - 相同的树
+    - [代码]
+    - [掘金]
+    - [破站]
+
+  - 二叉树的右视图
+    - [代码](https://github.com/bianzheCN/lc/blob/3b7cdd1fd3283aa8572590a98b149a430b490a4b/algo/tree/199.%20Binary%20Tree%20Right%20Side%20View.js)
+    - [掘金]
+    - [破站]
+
+  - 二叉搜索树中第K小的元素
+    - [代码](https://github.com/bianzheCN/lc/blob/035dffb7463c266f7770b2de31aee3fd7deefea2/algo/tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.js)
+    - [掘金](https://juejin.cn/post/7054827238780305422/)
+    - [破站]
+
+  - 面试题 04.05. 合法二叉搜索树
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.05.%20%E5%90%88%E6%B3%95%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.js)
+    - [掘金](https://juejin.cn/post/7054782777861865508)
+    - [破站]
+
+  - 两棵二叉搜索树中的所有元素
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.js)
+    - [掘金](https://juejin.cn/post/7054766380154880036/)
+    - [破站]
+
 - 2022.1.18
 
   - 排序链表
