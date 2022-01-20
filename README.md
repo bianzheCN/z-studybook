@@ -5,32 +5,34 @@
 ### 模版
 
 - 日期
-  - 题目名称
+  - 二叉搜索树的最近公共祖先
     - [代码]
     - [掘金]
     - [破站]
 
 ### Phase01: 算法
 
-- 二叉搜索树的最近公共祖先
-    - [代码]
-    - [掘金]
-    - [破站]
+- 2022.1.20
+
+  - 根据字符出现频率排序
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Heap/451.%20Sort%20Characters%20By%20Frequency.js)
+    - [掘金](https://juejin.cn/post/7055125001040560141)
+    - [破站](https://www.bilibili.com/video/BV1TS4y1o7hz/)
 
   - 对称二叉树
-    - [代码]
-    - [掘金]
-    - [破站]
+    - [代码](https://github.com/bianzheCN/lc/blob/ee5db8995e82b8a47a65b30d3d82a1985c2c499c/algo/tree/101.%20Symetric%20Tree.js)
+    - [掘金](https://juejin.cn/post/7055251988199505956/)
+    - [破站](https://www.bilibili.com/video/BV1wb4y1n7Jp/)
 
   - 相同的树
-    - [代码]
-    - [掘金]
-    - [破站]
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/100.%20Same%20Tree.js)
+    - [掘金](https://juejin.cn/post/7055239927079895054/)
+    - [破站](https://www.bilibili.com/video/BV1tu411m7zS/)
 
   - 二叉树的右视图
     - [代码](https://github.com/bianzheCN/lc/blob/3b7cdd1fd3283aa8572590a98b149a430b490a4b/algo/tree/199.%20Binary%20Tree%20Right%20Side%20View.js)
-    - [掘金]
-    - [破站]
+    - [掘金](https://juejin.cn/post/7055215887363604516/)
+    - [破站](https://www.bilibili.com/video/BV1SL411c7iM/)
 
 - 2022.1.19
 
