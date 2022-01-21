@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.1.121
+  - 二叉搜索树的最近公共祖先
+    - [代码](https://github.com/bianzheCN/lc/blob/32515e87212f03299eded44cf420fbc5914ac69c/algo/tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)
+    - [掘金](https://juejin.cn/post/7055578473443786765/)
+    - [破站](https://www.bilibili.com/video/BV1T34y1q7rp/)
+
 - 2022.1.20
 
   - 根据字符出现频率排序
