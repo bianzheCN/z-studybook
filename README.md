@@ -12,15 +12,16 @@
 
 ### Phase01: 算法
 
-- 最接近原点的 K 个点
-  - [代码](https://github.com/bianzheCN/lc/blob/a86c05d1fd452fd3ee88ea21749434928ca1e3db/algo/Heap/973.%20K%20Closest%20Points%20to%20Origin.js)
-  - [掘金](https://juejin.cn/post/7056031915362484237)
-  - [破站](https://www.bilibili.com/video/BV1144y1W7Xn/)
+- 2022.1.23
+  - 最接近原点的 K 个点
+    - [代码](https://github.com/bianzheCN/lc/blob/a86c05d1fd452fd3ee88ea21749434928ca1e3db/algo/Heap/973.%20K%20Closest%20Points%20to%20Origin.js)
+    - [掘金](https://juejin.cn/post/7056031915362484237)
+    - [破站](https://www.bilibili.com/video/BV1144y1W7Xn/)
 
-- 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
-  - [代码](https://github.com/bianzheCN/lc/blob/32515e87212f03299eded44cf420fbc5914ac69c/algo/tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)
-  - [掘金](https://juejin.cn/post/7055578473443786765/)
-  - [破站](https://www.bilibili.com/video/BV1T34y1q7rp/)
+  - 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
+    - [代码](https://github.com/bianzheCN/lc/blob/32515e87212f03299eded44cf420fbc5914ac69c/algo/tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)
+    - [掘金](https://juejin.cn/post/7055578473443786765/)
+    - [破站](https://www.bilibili.com/video/BV1T34y1q7rp/)
 
 - 2022.1.21
   - 二叉搜索树的最近公共祖先
