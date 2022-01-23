@@ -6,11 +6,23 @@
 
 - 日期
   - 二叉搜索树的最近公共祖先
-    - [代码]
-    - [掘金]
-    - [破站]
+    - [代码]()
+    - [掘金]()
+    - [破站]()
 
 ### Phase01: 算法
+
+- 2022.1.23
+
+  - 右侧小于当前元素个数
+    - [代码](https://github.com/bianzheCN/lc/blob/a52c3d76d804c0bb6baff380c80097cc0393d8c9/algo/Sort/mergeSort/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.js)
+    - [掘金](https://juejin.cn/post/7056388219880865800/)
+    - [破站](https://www.bilibili.com/video/BV1g34y1q7MG/)
+
+  - 区间和
+    - [代码](https://github.com/bianzheCN/lc/blob/a52c3d76d804c0bb6baff380c80097cc0393d8c9/algo/Sort/mergeSort/327.%20Count%20of%20Range%20Sum.js)
+    - [掘金](https://juejin.cn/post/7056380004417929253/)
+    - [破站](https://www.bilibili.com/video/BV1za411m7Rz/)
 
 - 2022.1.23
   - 最接近原点的 K 个点
