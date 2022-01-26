@@ -12,6 +12,23 @@
 
 ### Phase01: 算法
 
+- 2022.1.26
+  - 情侣牵手
+    - [代码](https://github.com/bianzheCN/lc/blob/ef220d138b7a9d74f1f420f2c41c1e83d95dd2d3/algo/DSU/765.%20Couples%20Holding%20Hands.js)
+    - [掘金](https://juejin.cn/post/7057492003734421541/)
+    - [破站](https://www.bilibili.com/video/BV1vq4y1C7Y5/)
+
+  - 账户合并
+    - [代码](https://github.com/bianzheCN/lc/blob/ef220d138b7a9d74f1f420f2c41c1e83d95dd2d3/algo/DSU/721.%20Accounts%20Merge.js)
+    - [掘金](https://juejin.cn/post/7057511849440313381/)
+    - [破站](https://www.bilibili.com/video/BV1WT4y1y7V5/)
+
+- 2022.1.24
+  - 最长连续序列
+    - [代码](https://github.com/bianzheCN/lc/blob/master/128.%20Longest%20Consecutive%20Sequence.js)
+    - [掘金]()
+    - [破站](https://www.bilibili.com/video/BV1zr4y1e7bL/)
+
 - 2022.1.23
 
   - 右侧小于当前元素个数
