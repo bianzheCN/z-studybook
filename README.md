@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 日期
+  - 盛最多水的容器
+    - [代码](https://github.com/bianzheCN/lc/blob/92f89517f3bac091babc539fca5335999a14f7c0/algo/greedy/11.%20Container%20With%20Most%20Water.js)
+    - [掘金](https://juejin.cn/post/7057895935367446565/)
+    - [破站](https://www.bilibili.com/video/BV1Bu411R7W1/)
+
 - 2022.1.26
   - 情侣牵手
     - [代码](https://github.com/bianzheCN/lc/blob/ef220d138b7a9d74f1f420f2c41c1e83d95dd2d3/algo/DSU/765.%20Couples%20Holding%20Hands.js)
