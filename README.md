@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 日期
+  - 冗余连接II
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/DSU/685.%20Redundant%20Connection%20II.js)
+    - [掘金](https://juejin.cn/post/7058283513061048351/)
+    - [破站]()
+
+- 2022.1.27
   - 盛最多水的容器
     - [代码](https://github.com/bianzheCN/lc/blob/92f89517f3bac091babc539fca5335999a14f7c0/algo/greedy/11.%20Container%20With%20Most%20Water.js)
     - [掘金](https://juejin.cn/post/7057895935367446565/)
