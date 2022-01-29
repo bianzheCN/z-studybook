@@ -12,7 +12,19 @@
 
 ### Phase01: 算法
 
-- 日期
+- 2022.1.29
+
+  - Sliding Window Maximum
+    - [代码](https://github.com/bianzheCN/lc/blob/3d9b04bdc660dc1a721561110f78df7b60aa6352/algo/SlidingWindow/239.%20Sliding%20Window%20Maximum.js)
+    - [掘金](https://juejin.cn/post/7058638109201661982/)
+    - [破站]()
+
+  - Implement Rand10() Using Rand7()
+    - [代码](https://github.com/bianzheCN/lc/blob/fd9c93ba38403f908ef8a7364d7bc0066f56eb9e/algo/Math/470.%20Implement%20Rand10()%20Using%20Rand7().js)
+    - [掘金](https://juejin.cn/post/7058636330669965342/)
+    - [破站]()
+
+- 2022.1.28
   - 冗余连接II
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/DSU/685.%20Redundant%20Connection%20II.js)
     - [掘金](https://juejin.cn/post/7058283513061048351/)
