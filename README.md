@@ -12,6 +12,18 @@
 
 ### Phase01: 算法
 
+- 2022.1.30
+  - 95. Unique Binary Search Trees II
+    - [代码](https://github.com/bianzheCN/lc/blob/cad9b61274a75cd3e0bf12f351893fd505444a60/algo/tree/95.%20Unique%20Binary%20Search%20Trees%20II.js)
+    - [掘金](https://juejin.cn/post/7058945681146249246)
+    - [破站](https://www.bilibili.com/video/BV1j44y1W7CT/)
+
+  - 冗余连接II
+    - [破站](https://www.bilibili.com/video/BV1eq4y1h7VL/)
+
+  - Sliding Window Maximum
+    - [破站](https://www.bilibili.com/video/BV18P4y1A77Y/)
+
 - 2022.1.29
 
   - Sliding Window Maximum
