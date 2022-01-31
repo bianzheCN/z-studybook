@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 2021.1.31
+
+  - Notes: Symbol
+    - [代码]()
+    - [掘金](https://juejin.cn/post/7059368221152903182/)
+    - [破站]()
+
   - 1342. Number of Steps to Reduce a Number to Zero
     - [代码](https://github.com/bianzheCN/lc/blob/2e58a3ddbf44d2f4a34fe62426f90ae38c357359/algo/Math/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)
     - [掘金](https://juejin.cn/post/7059336560637902878/)
