@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2021.1.31
+  - 1342. Number of Steps to Reduce a Number to Zero
+    - [代码](https://github.com/bianzheCN/lc/blob/2e58a3ddbf44d2f4a34fe62426f90ae38c357359/algo/Math/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)
+    - [掘金](https://juejin.cn/post/7059336560637902878/)
+    - [破站]()
+
 - 2022.1.30
   - 95. Unique Binary Search Trees II
     - [代码](https://github.com/bianzheCN/lc/blob/cad9b61274a75cd3e0bf12f351893fd505444a60/algo/tree/95.%20Unique%20Binary%20Search%20Trees%20II.js)
