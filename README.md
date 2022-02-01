@@ -12,6 +12,18 @@
 
 ### Phase01: 算法
 
+- 2022.2.1
+
+  - 671. Second Minimum Node In a Binary Tree
+    - [代码](https://github.com/bianzheCN/lc/blob/c3bc068daf3fcda70c62d1a4d86115ce76a124c7/algo/tree/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.js)
+    - [掘金](https://juejin.cn/post/7059726832085499941/)
+    - [破站](https://www.bilibili.com/video/BV1Va41127dk/)
+
+  - 884. Uncommon Words from Two Sentences
+    - [代码](https://github.com/bianzheCN/lc/blob/43a6cb659f84d1b7cdad01828944ace458dab386/algo/Hash/884.%20Uncommon%20Words%20from%20Two%20Sentences.js)
+    - [掘金](https://juejin.cn/post/7059690198526853133/)
+    - [破站](https://www.bilibili.com/video/BV1PS4y157Lo/)
+
 - 2021.1.31
 
   - Notes: Symbol
