@@ -12,6 +12,23 @@
 
 ### Phase01: 算法
 
+- 2022.2.3
+
+  - 53. Maximum Subarray
+    - [代码](https://github.com/bianzheCN/lc/blob/a724dffd943b6c2d7fd55a77f8e02820e189285f/algo/PrefixSum/53.%20Maximum%20Subarray.js)
+    - [掘金](https://juejin.cn/post/7060461716617822221/)
+    - [破站](https://www.bilibili.com/video/BV1Y44y1W7mp/)
+
+  - 1508. Range Sum of Sorted Subarray Sums
+    - [代码](https://github.com/bianzheCN/lc/blob/5a6619e9b1f02b212612f7640a890d4f03c9bf9d/algo/Sort/mergeSort/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.js)
+    - [掘金](https://juejin.cn/post/7060460130705342478/)
+    - [破站](https://www.bilibili.com/video/BV12q4y1b7UX/)
+
+  - 1763. Longest Nice Substring
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/DivideAndConquer/1763.%20Longest%20Nice%20Substring.js)
+    - [掘金](https://juejin.cn/post/7060441979703803918/)
+    - [破站](https://www.bilibili.com/video/BV1Hq4y1b7Tg/)
+
 - 2022.2.1
 
   - 671. Second Minimum Node In a Binary Tree
