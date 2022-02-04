@@ -5,12 +5,18 @@
 ### 模版
 
 - 日期
-  - 二叉搜索树的最近公共祖先
+  - 863. All Nodes Distance K in Binary Tree
     - [代码]()
     - [掘金]()
     - [破站]()
 
 ### Phase01: 算法
+
+- 2022.2.4
+  - 863. All Nodes Distance K in Binary Tree
+    - [代码](https://github.com/bianzheCN/lc/blob/227fd4db1a3beb5b5f5c1b009556e4492beca3b2/algo/tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.js)
+    - [掘金](https://juejin.cn/post/7060830874056523784/)
+    - [破站](https://www.bilibili.com/video/BV13R4y177dJ/)
 
 - 2022.2.3
 
