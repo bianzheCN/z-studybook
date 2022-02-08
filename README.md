@@ -12,6 +12,34 @@
 
 ### Phase01: 算法
 
+- 2022.2.9
+  - 863. All Nodes Distance K in Binary Tree
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+- 2022.2.8
+
+  - 面试题 04.08. 首个共同祖先
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)
+    - [掘金](https://juejin.cn/post/7062341830091735070/)
+    - [破站](https://www.bilibili.com/video/BV1pa411y7vk/)
+
+  - 148. 排序链表
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/148.%20Sort%20List.js)
+    - [掘金](https://juejin.cn/post/7062335795473940516/)
+    - [破站](https://www.bilibili.com/video/BV1hL4y1s7ko/)
+
+  - 863. 剑指 Offer 51. 数组中的逆序对
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/%E5%89%91%E6%8C%87%20Offer%2051.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.js)
+    - [掘金](https://juejin.cn/post/7062329290423173128/)
+    - [破站](https://www.bilibili.com/video/BV1u5411o7wo/)
+
+  - 912. Sort an Array
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/912.%20Sort%20an%20Array.js)
+    - [掘金](https://juejin.cn/post/7062322838325166093/)
+    - [破站](https://www.bilibili.com/video/BV1a34y117Mu/)
+
 - 2022.2.4
   - 863. All Nodes Distance K in Binary Tree
     - [代码](https://github.com/bianzheCN/lc/blob/227fd4db1a3beb5b5f5c1b009556e4492beca3b2/algo/tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.js)
