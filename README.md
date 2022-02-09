@@ -14,9 +14,9 @@
 
 - 2022.2.9
   - 863. All Nodes Distance K in Binary Tree
-    - [代码]()
-    - [掘金]()
-    - [破站]()
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.js)
+    - [掘金](https://juejin.cn/post/7062617516236865567/)
+    - [破站](https://www.bilibili.com/video/BV1nm4y1Z7Kf/)
 
 - 2022.2.8
 
