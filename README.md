@@ -12,6 +12,33 @@
 
 ### Phase01: 算法
 
+- 2022.2.10
+
+  - 计算右侧小于当前元素的个数
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+  - 区间和的个数
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+  - 子数组和排序后的区间和
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+  - 合并K个升序链表
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+  - 层数最深叶子节点的和
+    - [代码](https://github.com/bianzheCN/lc/blob/f243efa09ee1f9157fd8076e04338d051ed330f2/algo/tree/1302.%20Deepest%20Leaves%20Sum.js)
+    - [掘金](https://juejin.cn/post/7062998505857482766)
+    - [破站]()
+
 - 2022.2.9
   - 863. All Nodes Distance K in Binary Tree
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.js)
