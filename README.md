@@ -12,6 +12,33 @@
 
 ### Phase01: 算法
 
+- 2022.2.12
+
+  - 315. 计算右侧小于当前元素的个数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.js)
+    - [掘金](https://juejin.cn/post/7063742985720528927/)
+    - [破站](https://www.bilibili.com/video/BV1ym4y1Z7Pd/)
+
+  - 327. 区间和的个数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/327.%20Count%20of%20Range%20Sum.js)
+    - [掘金](https://juejin.cn/post/7063731887193194509/)
+    - [破站](https://www.bilibili.com/video/BV1da411y7eM/)
+
+  - 子数组和排序后的区间和
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.js)
+    - [掘金](https://juejin.cn/post/7063693674500063240/)
+    - [破站](https://www.bilibili.com/video/BV1FR4y1L7v5/)
+
+  - 合并K个升序链表
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/23.%20Merge%20k%20Sorted%20Lists.js)
+    - [掘金](https://juejin.cn/post/7063666642043011103/)
+    - [破站](https://www.bilibili.com/video/BV1pR4y177uN/)
+
+  - 层数最深叶子节点的和
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/1302.%20Deepest%20Leaves%20Sum.js)
+    - [掘金](https://juejin.cn/post/7062998505857482766)
+    - [破站](https://www.bilibili.com/video/BV13m4y1d7Zv/)
+
 - 2022.2.10
 
   - 计算右侧小于当前元素的个数
@@ -25,11 +52,6 @@
     - [破站]()
 
   - 子数组和排序后的区间和
-    - [代码]()
-    - [掘金]()
-    - [破站]()
-
-  - 合并K个升序链表
     - [代码]()
     - [掘金]()
     - [破站]()
