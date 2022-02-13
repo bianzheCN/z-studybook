@@ -13,6 +13,11 @@
 ### Phase01: 算法
 
 - 2022.2.13
+
+  - 递增子序列
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/dfs/491.%20%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.js)
+    - [掘金](https://juejin.cn/post/7064199247213625380/)
+    - [破站]()
   
   - 删除覆盖区间
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Imitation/1288.%20%E5%88%A0%E9%99%A4%E8%A2%AB%E8%A6%86%E7%9B%96%E5%8C%BA%E9%97%B4.js)
