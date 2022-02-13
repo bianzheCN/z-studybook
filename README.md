@@ -13,6 +13,17 @@
 ### Phase01: 算法
 
 - 2022.2.13
+  
+  - 删除覆盖区间
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Imitation/1288.%20%E5%88%A0%E9%99%A4%E8%A2%AB%E8%A6%86%E7%9B%96%E5%8C%BA%E9%97%B4.js)
+    - [掘金](https://juejin.cn/post/7064059904893386765/)
+    - [破站](https://www.bilibili.com/video/BV1Zr4y167ry/)
+
+  - 合并区间
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Imitation/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.js)
+    - [掘金](https://juejin.cn/post/7064052939693752351/)
+    - [破站](https://www.bilibili.com/video/BV1Z44y1H7rc/)
+
   - 最大子数组和
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/PrefixSum/53.%20Maximum%20Subarray.js)
     - [掘金](https://juejin.cn/post/7064029136821420040/)
