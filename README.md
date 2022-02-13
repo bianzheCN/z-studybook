@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.2.13
+  - 最大子数组和
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/PrefixSum/53.%20Maximum%20Subarray.js)
+    - [掘金](https://juejin.cn/post/7064029136821420040/)
+    - [破站](https://www.bilibili.com/video/BV1bR4y1L7cJ/)
+
 - 2022.2.12
 
   - 315. 计算右侧小于当前元素的个数
