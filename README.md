@@ -5,7 +5,7 @@
 ### 模版
 
 - 日期
-  - 863. All Nodes Distance K in Binary Tree
+  - question
     - [代码]()
     - [掘金]()
     - [破站]()
@@ -13,6 +13,11 @@
 ### Phase01: 算法
 
 - 2022.2.13
+
+  - 面试题 04.12. 求和路径
+    - [代码]()
+    - [掘金]()
+    - [破站]()
 
   - 递增子序列
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/dfs/491.%20%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.js)
