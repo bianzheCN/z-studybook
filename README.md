@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.2.14
+  - 求和路径
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Imitation/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.12.%20%E6%B1%82%E5%92%8C%E8%B7%AF%E5%BE%84.js)
+    - [掘金](https://juejin.cn/post/7064520438629711908/)
+    - [破站]()
+
 - 2022.2.13
 
   - 面试题 04.12. 求和路径
