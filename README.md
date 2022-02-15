@@ -12,6 +12,33 @@
 
 ### Phase01: 算法
 
+- 2022.2.15
+
+  - 最大间距
+    - [代码]()
+    - [掘金]()
+    - [破站]()
+
+  - 课程表 II
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/topologySort/210.%20Course%20Schedule%20II.js)
+    - [掘金](https://juejin.cn/post/7065077025769259015/)
+    - [破站]()
+
+  - 课程表 I
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/topologySort/207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.js)
+    - [掘金](https://juejin.cn/post/7065076435324518430/)
+    - [破站]()
+
+  - H 指数
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Imitation/274.%20H%20%E6%8C%87%E6%95%B0.js)
+    - [掘金](https://juejin.cn/post/7065073401185959967/)
+    - [破站]()
+
+  - 数组的相对排序
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/countSort/1122.%20%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.js)
+    - [掘金](https://juejin.cn/post/7065071836349857822/)
+    - [破站]()
+
 - 2022.2.14
   - 求和路径
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Imitation/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.12.%20%E6%B1%82%E5%92%8C%E8%B7%AF%E5%BE%84.js)
