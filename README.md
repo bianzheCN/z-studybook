@@ -12,13 +12,34 @@
 
 ### Phase01: 算法
 
-- 2022.2.16
+- 2022.2.18
 
-  - 最大间距
-    - [代码]()
-    - [掘金]()
+  - 前 K 个高频元素
+    - [代码](https://github.com/bianzheCN/lc/blob/23b5afd314ee2b203f4d490ba25513f14b8f262d/algo/Heap/347.%20Top%20K%20Frequent%20Elements.js)
+    - [掘金](https://juejin.cn/post/7066008714989273096/)
+    - [破站](https://www.bilibili.com/video/BV1Q34y1C7qN/)
+
+  - 最大数
+    - [代码](https://github.com/bianzheCN/lc/blob/23b5afd314ee2b203f4d490ba25513f14b8f262d/algo/Heap/179.%20Largest%20Number.js)
+    - [掘金](https://juejin.cn/post/7066012550835470349/)
     - [破站]()
 
+  - 最长同值路径
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/tree/687.%20Longest%20Univalue%20Path.js)
+    - [掘金](https://juejin.cn/post/7066017257822011422/)
+    - [破站]()
+
+  - 面试题 16.16. 部分排序
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/double%20pointer/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.16.%20%E9%83%A8%E5%88%86%E6%8E%92%E5%BA%8F.js)
+    - [掘金](https://juejin.cn/post/7066021521055039502/)
+    - [破站]()
+
+  - 763. Partition Labels
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/greedy/763.%20Partition%20Labels.js)
+    - [掘金](https://juejin.cn/post/7066023436337807373/)
+    - [破站]()
+
+- 2022.2.16
   - 课程表 II
     - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/topologySort/210.%20Course%20Schedule%20II.js)
     - [掘金](https://juejin.cn/post/7065077025769259015/)
