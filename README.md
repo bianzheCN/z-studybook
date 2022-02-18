@@ -30,13 +30,13 @@
     - [破站]()
 
   - 字符频次唯一的最小删除次数
-    - [代码]()
-    - [掘金]()
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/greedy/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.js)
+    - [掘金](https://juejin.cn/post/7066049465760612359/)
     - [破站]()
 
-  - 283. Move Zeroes
-    - [代码]()
-    - [掘金]()
+  - Move Zeroes
+    - [代码](https://github.com/bianzheCN/lc/blob/d5b71e09ba26253324100c29bf99514ccb0a2f83/algo/double%20pointer/283.%20Move%20Zeroes.js)
+    - [掘金](https://juejin.cn/post/7066046906358562847/)
     - [破站]()
 
 - 2022.2.18
