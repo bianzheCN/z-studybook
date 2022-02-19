@@ -15,18 +15,18 @@
 - 2022.2.19
 
   - 最多可以参加的会议数目
-    - [代码]()
-    - [掘金]()
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/greedy/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.js)
+    - [掘金](https://juejin.cn/post/7066370948668063752/)
     - [破站]()
 
   - 数组拆分 I
-    - [代码]()
-    - [掘金]()
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/greedy/561.%20Array%20Partition%20I.js)
+    - [掘金](https://juejin.cn/post/7066369506829926437/)
     - [破站]()
 
   - 合并排序的数组
-    - [代码]()
-    - [掘金]()
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Sort/mergeSort/%E9%9D%A2%E8%AF%95%E9%A2%98%2010.01.%20Sorted%20Merge%20LCCI.js)
+    - [掘金](https://juejin.cn/post/7066367327062720543/)
     - [破站]()
 
   - 字符频次唯一的最小删除次数
