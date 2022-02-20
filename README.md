@@ -12,6 +12,23 @@
 
 ### Phase01: 算法
 
+- 2022.2.20
+
+  - LRU
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Hash/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.25.%20LRU%20Cache%20LCCI.js)
+    - [掘金](https://juejin.cn/post/7066755774172626951/)
+    - [破站]()
+
+  - hashSet
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Hash/705.%20Design%20HashSet.js)
+    - [掘金](https://juejin.cn/post/7066759977620209695/)
+    - [破站]()
+
+  - hashMap
+    - [代码](https://github.com/bianzheCN/lc/blob/master/algo/Hash/706.%20Design%20HashMap.js)
+    - [掘金](https://juejin.cn/post/7066761985798438925/)
+    - [破站]()
+
 - 2022.2.19
 
   - 最多可以参加的会议数目
