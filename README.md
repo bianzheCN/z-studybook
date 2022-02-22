@@ -14,6 +14,11 @@
 
 - 2022.2.22
 
+  - Two sum
+    - [代码](https://github.com/bianzheCN/lc/blob/16f6d55f8679e6ef2bf6d02f998693ad1fdaccd9/algo/Hash/1.%20Two%20Sum.js)
+    - [掘金](https://juejin.cn/post/7067530730959536142/)
+    - [破站]()
+
   - 35. Search Insert Position
     - [代码](https://github.com/bianzheCN/lc/blob/489dc2190d49c1b97a62e1ee78ca860e8f223e32/algo/binary/35.%20Search%20Insert%20Position.js)
     - [掘金](https://juejin.cn/post/7067520941768572965/)
