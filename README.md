@@ -12,6 +12,13 @@
 
 ### Phase01: 算法
 
+- 2022.2.22
+  - Sqrt(x)
+    - [代码](https://github.com/bianzheCN/lc/blob/cedb1c1478eb6b6d70d7de1e89ff9482b6ee4a16/algo/binary/69.%20Sqrt(x).js)
+    - [掘金](https://juejin.cn/post/7067520941768572965/)
+    - [破站]()
+
+
 - 2022.2.20
 
   - LRU
