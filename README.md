@@ -13,6 +13,12 @@
 ### Phase01: 算法
 
 - 2022.2.22
+
+  - 35. Search Insert Position
+    - [代码](https://github.com/bianzheCN/lc/blob/489dc2190d49c1b97a62e1ee78ca860e8f223e32/algo/binary/35.%20Search%20Insert%20Position.js)
+    - [掘金](https://juejin.cn/post/7067520941768572965/)
+    - [破站]()
+
   - Sqrt(x)
     - [代码](https://github.com/bianzheCN/lc/blob/cedb1c1478eb6b6d70d7de1e89ff9482b6ee4a16/algo/binary/69.%20Sqrt(x).js)
     - [掘金](https://juejin.cn/post/7067520941768572965/)
