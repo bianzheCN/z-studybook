@@ -12,6 +12,12 @@
 
 ### Phase01: 算法
 
+- 2022.2.23
+  - 34. Find First and Last Position of Element in Sorted Array
+    - [代码](https://github.com/bianzheCN/lc/blob/82c6908ecc02f9c310de7624adcc69e66a289ab7/algo/binary/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js)
+    - [掘金](https://juejin.cn/post/7067691029960327176/)
+    - [破站]()
+
 - 2022.2.22
 
   - Two sum
